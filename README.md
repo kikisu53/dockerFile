@@ -89,6 +89,6 @@
     make phpstan
     # php 格式校正
     make phpcbf
-    # 完整
+    # 完整測試
     make all
     ```
